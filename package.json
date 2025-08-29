@@ -1,0 +1,12 @@
+{
+  "name": "ultimate-calendar-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to serve the Ultimate Calendar HTML file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
